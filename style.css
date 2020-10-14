@@ -1,0 +1,18 @@
+p{
+    font-size: 2em;
+}
+a{
+    text-decoration: none;
+}
+button{
+    
+    border-bottom-left-radius: 10px ;
+    border-bottom-right-radius: 10px ;
+}
+
+button :hover {
+    color: aqua
+}
+button ::backdrop {
+    color: brown
+}
